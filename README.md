@@ -12,4 +12,4 @@ CUSTOMER LOYALTY & RETENTION /
 CUSTOMER REWARDS & CASH BACK /
 IDENTITY FREE!
 
-Basic Standard Plan / Premium Silver Plan / Premium Gold Plan / Premium Platinum Plan
+AS-Basic Standard Plan / PS-Premium Silver Plan / PG-Premium Gold Plan / PP-Premium Platinum Plan
