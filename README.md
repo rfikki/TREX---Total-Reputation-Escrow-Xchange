@@ -1,4 +1,4 @@
-# TREX---Total-Reputation-Escrow-Xchange
+# TREX---Trusted-Reputation-Escrow-Xchange
 
 DRAFT – First / Under Review
 
